@@ -22,6 +22,8 @@
     height: calc(100vh - 60px);
     
   }
+
+
   
   /* side-bar */
 
@@ -45,11 +47,18 @@
   
 
    /* end side-bar */
+
+   /* main-cont */
+   .main-cont{
+    width: 100%;
+    overflow: auto;
+
+   }
+   /* top .main-cont */
+   .badge{
+    background-color: rgb(23, 90, 186);
+   }
+    /* end top main-cont */
 /* end main */
  
  
-  
-
-  
- 
-
