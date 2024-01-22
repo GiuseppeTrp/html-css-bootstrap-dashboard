@@ -1,0 +1,55 @@
+
+  
+ 
+  /* header nav-bar */
+  header .image-small {
+    width: 40px;
+  }
+
+  
+  .fa-bell {
+    color: rgb(255, 147, 5);
+  }
+
+  .fa-magnifying-glass, .fa-list-ul, .fa-circle-question, .fa-ellipsis-vertical{
+    color: rgb(101, 101, 101);
+  }
+
+  /* end header navbar */
+  
+  /* main*/
+  main {
+    height: calc(100vh - 60px);
+    
+  }
+  
+  /* side-bar */
+
+ 
+  
+  main > nav {
+    
+    color: white;
+    height: 100%;
+    width: 100px;
+   
+    background-image: url(../img/sidebar-bg.png);
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(	5,30,52);
+  }
+
+  .list-menu:hover {
+    background-color: rgb(164, 164, 164);
+  }
+  
+
+   /* end side-bar */
+/* end main */
+ 
+ 
+  
+
+  
+ 
+
